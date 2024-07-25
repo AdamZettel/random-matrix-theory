@@ -1,5 +1,7 @@
 # random-matrix-theory
 random matrix theory experiments
 
-## Eigenvalue Distributions
+## eigenvalue distributions
 ![wigner](images/wigner_semicircle.png)
+![march_past](images/marchenko_pastur.png)
+
